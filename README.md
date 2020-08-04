@@ -1,4 +1,4 @@
-![Avatar](https://avatars3.githubusercontent.com/u/66396996?s=48&v=4")
+![Avatar](https://avatars0.githubusercontent.com/u/66396996?s=460&u=579478f09d06c7f99b750c3cbf754340fbe0dc75&v=4)
 ### Olá 👋
 
 Olá! Meu nome é Gabriel R Bellasco, moro em São Paulo, e sou apaixonado por tecnologias e por computadores, atualmente estou estudando tecnologias FullStack, e algumas linguagems como Javascript, Typescript e Python, além de algumas bibliotecas como React, Electron e muitas outras. Também gosto muito de Inteligencia Artificial, e espero em breve construir minhas próprias IAs
