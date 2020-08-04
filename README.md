@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### Olá 👋
 
+![Avatar](https://avatars3.githubusercontent.com/u/66396996?s=48&v=4")
+
+Meu nome é Gabriel R Bellasco, moro em São Paulo, e, atualmente, estou estudando para ser um Desenvolvedor Full Stack, alguns dos meus projetos podem ser vistos no meu repositório
+(My Javascript Projects)[https://github.com/GabrielBellasco/my-javascript-projects], mas muitos outros ainda virão!
 <!--
 **GabrielBellasco/GabrielBellasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
