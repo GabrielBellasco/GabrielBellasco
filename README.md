@@ -1,15 +1,14 @@
 ![Avatar](https://avatars3.githubusercontent.com/u/66396996?s=48&v=4")
 ### Olá 👋
 
-Meu nome é Gabriel R Bellasco, moro em São Paulo, e, atualmente, estou estudando para ser um Desenvolvedor Full Stack, alguns dos meus projetos podem ser vistos no meu repositório
-[My Javascript Projects](https://github.com/GabrielBellasco/my-javascript-projects), mas muitos outros ainda virão!                                                        
--🌱 Atualmente estou aprendendo -> Atualmente eu estou estudando Javascript e Typescript (Obviamente junto com HTML e CSS), mas também quero aprender Python e algumas bibliotecas Javascript, e também inteligência   artificial, que para mim é algo simplesmente incrivel!
+Olá! Meu nome é Gabriel R Bellasco, moro em São Paulo, e sou apaixonado por tecnologias e por computadores, atualmente estou estudando tecnologias FullStack, e algumas linguagems como Javascript, Typescript e Python, além de algumas bibliotecas como React, Electron e muitas outras. Também gosto muito de Inteligencia Artificial, e espero em breve construir minhas próprias IAs
+#### Links
+[My Javascript Projects](https://github.com/GabrielBellasco/my-javascript-projects)
  
 ### Hi there 👋
-  My name is Gabriel R Bellasco, I live in São Paulo, and I am currently studying to be a Full Stack Developer, some of my projects can be seen in my repository
-  [My Javascript Projects](https://github.com/GabrielBellasco/my-javascript-projects), but many more are yet to come!                                            
--🌱 I’m currently learning -> I'm currently studying Javascript and TypeScript (along with HTML and CSS) and I also want to learn Python and some Javascript libraries and another thing is artificial intelligence, such as neural networks
-  
+Hello there! My name is Gabriel R Bellasco, I live in São Paulo, and I am passionate about technologies and computers, I am currently studying FullStack technologies, and some languages like Javascript, Typescript and Python, in addition to some libraries like React, Electron and many others. I also really like Artificial Intelligence, and I hope to soon build my own AI
+#### Links
+  [My Javascript Projects](https://github.com/GabrielBellasco/my-javascript-projects)                                          
 <!--
 **GabrielBellasco/GabrielBellasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
