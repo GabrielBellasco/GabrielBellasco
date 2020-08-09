@@ -2,7 +2,7 @@
 ### Olá 👋
 
 Hello There! 👋
-Olá! Meu nome é Gabriel R Bellasco, moro em São Paulo, e sou apaixonado por tecnologia, e atualmente estou estudando tecnologias como Javascript, Typescript e Python, além de algumas bibliotecas como React, NodeJs e muitas outras. Também me interesso por desenvolvimento de jogos, e também gosto muito de Inteligencia Artificial, e redes neurais, e espero em breve construir minhas próprias IAs.
+Olá! Meu nome é Gabriel R Bellasco, moro em São Paulo, e sou apaixonado por tecnologia, e atualmente estou estudando tecnologias como Javascript, Typescript e Python, além de algumas bibliotecas como React, NodeJs e muitas outras. Também me interesso por desenvolvimento de jogos, e também gosto muito de Inteligencia Artificial, e redes neurais.
 ```js
 import {gabrielbellasco} from 'world.js';
 
@@ -12,7 +12,13 @@ gabrielbellasco.start( programming, now );
 [My Javascript Projects](https://github.com/GabrielBellasco/my-javascript-projects)
  
 ### Hi there 👋
-Hello there! My name is Gabriel R Bellasco, I live in São Paulo, and I am passionate about technologies and computers, I am currently studying FullStack technologies, and some languages like Javascript, Typescript and Python, in addition to some libraries like React, Electron and many others. I also really like Artificial Intelligence, and I hope to soon build my own AI
+Hello There! 👋
+Hello! My name is Gabriel R Bellasco, I live in São Paulo, and I am passionate about technology, and I am currently studying technologies like Javascript, Typescript and Python, in addition to some libraries like React, NodeJs and many others. I am also interested in game development, and I also love Artificial Intelligence, and neural networks.
+```js
+import {gabrielbellasco} from 'world.js';
+
+gabrielbellasco.start( programming, now );
+```
 #### Links
   [My Javascript Projects](https://github.com/GabrielBellasco/my-javascript-projects)                                          
 <!--
