@@ -8,4 +8,4 @@ Hi! My name is Gabriel R Bellasco, I live in São Paulo, and I'm passionate abou
 
 ##### Meus projetos antigos | My old Learning Projects
 - [Console TicTacToe (C++)](https://github.com/GabrielBellasco/ConsoleTicTacToe)
-- [Javascript Projects (JS)](https://github.com/GabrielBellasco/my-javascript-projects)
+- [Javascript Projects (JS) - Abandoned](https://github.com/GabrielBellasco/my-javascript-projects)
