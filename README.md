@@ -6,4 +6,3 @@
 
 ##### Meus projetos antigos | My old Learning Projects
 - [Console TicTacToe (C++)](https://github.com/GabrielBellasco/ConsoleTicTacToe)
-- [Javascript Projects (JS) - Abandoned](https://github.com/GabrielBellasco/my-javascript-projects)
